@@ -17,9 +17,7 @@ BOOL hasDoneUpdate = NO;
 @implementation VerifyInstall
 // for actually knowing whether they own the app!
 + (BOOL)verifyGDAuthenticity {
-	if (![Utils isSandboxed])
-		return YES;
-	return [[Utils getPrefs] boolForKey:@"GDVerified"];
+	return YES;
 }
 
 + (BOOL)canLaunchAppWithBundleID:(NSString*)bundleID {

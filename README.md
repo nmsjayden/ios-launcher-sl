@@ -10,6 +10,10 @@ Manages installing and launching **Geometry Dash** with **Geode** for iOS.
 - Full version of Geometry Dash installed
 - An internet connection
 
+## IMPORTANT DISCLAIMER
+**This App is not for piracy. i don't have any responsibilties on getting troubles with lawsuits around Geometry Dash. This depends on your installation of having Official Geometry Dash from AppStore. All the responsibility goes to YOU**
+
+
 ## Quick Start
 1. Navigate to https://github.com/geode-sdk/ios-launcher/releases/latest, if you are not **jailbroken**, download the latest **ipa** file. If you wish to use the tweak and have **TrollStore**, download the latest **tipa** file.
 2. Install the launcher by following the [Installation Guide](./INSTALL.md). You can also access this guide by going in to the **INSTALL.md** file in this repository.
